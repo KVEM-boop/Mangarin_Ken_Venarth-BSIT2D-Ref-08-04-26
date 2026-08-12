@@ -1,0 +1,15 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        string Name = "Ken Venarth Mangarin";
+        int Age = 20;
+        double Weight = 98;
+        int Weight2 = 0;
+        bool TF = true;
+
+        Console.WriteLine($"Hello, I Am {Name}, Aged {Age}, My Weight is {Weight}.{Weight2}, And the fact that I exist is {TF}");
+    }
+}
