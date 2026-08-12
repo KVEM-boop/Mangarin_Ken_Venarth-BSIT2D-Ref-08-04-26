@@ -1,0 +1,9 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Ken Venarth Mangarin Age: 20 and I am Not happy to be back, but crying is useless now.");
+    }
+}
